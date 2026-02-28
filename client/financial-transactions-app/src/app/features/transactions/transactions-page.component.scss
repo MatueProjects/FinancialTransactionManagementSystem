@@ -1,0 +1,34 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  margin-bottom: 16px;
+}
+
+.header-actions {
+  display: flex;
+  gap: 8px;
+}
+
+.subtitle {
+  margin: 4px 0 0;
+  color: rgba(0, 0, 0, 0.6);
+}
+
+.table-wrapper {
+  overflow-x: auto;
+}
+
+.actions {
+  display: flex;
+  gap: 8px;
+}
+
+.loading,
+.empty-state {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 32px 0;
+}

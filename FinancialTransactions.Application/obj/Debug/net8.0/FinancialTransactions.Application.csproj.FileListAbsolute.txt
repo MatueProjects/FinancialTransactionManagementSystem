@@ -1,0 +1,15 @@
+C:\Users\thabomat\source\repos\FinancialTransactionManagementSystem\FinancialTransactions.Application\obj\Debug\net8.0\FinancialTransactions.Application.csproj.AssemblyReference.cache
+C:\Users\thabomat\source\repos\FinancialTransactionManagementSystem\FinancialTransactions.Application\obj\Debug\net8.0\FinancialTransactions.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thabomat\source\repos\FinancialTransactionManagementSystem\FinancialTransactions.Application\obj\Debug\net8.0\FinancialTransactions.Application.AssemblyInfoInputs.cache
+C:\Users\thabomat\source\repos\FinancialTransactionManagementSystem\FinancialTransactions.Application\obj\Debug\net8.0\FinancialTransactions.Application.AssemblyInfo.cs
+C:\Users\thabomat\source\repos\FinancialTransactionManagementSystem\FinancialTransactions.Application\obj\Debug\net8.0\FinancialTransactions.Application.csproj.CoreCompileInputs.cache
+C:\Users\thabomat\source\repos\FinancialTransactionManagementSystem\FinancialTransactions.Application\bin\Debug\net8.0\FinancialTransactions.Application.deps.json
+C:\Users\thabomat\source\repos\FinancialTransactionManagementSystem\FinancialTransactions.Application\bin\Debug\net8.0\FinancialTransactions.Application.dll
+C:\Users\thabomat\source\repos\FinancialTransactionManagementSystem\FinancialTransactions.Application\bin\Debug\net8.0\FinancialTransactions.Application.pdb
+C:\Users\thabomat\source\repos\FinancialTransactionManagementSystem\FinancialTransactions.Application\bin\Debug\net8.0\FinancialTransactions.Domain.dll
+C:\Users\thabomat\source\repos\FinancialTransactionManagementSystem\FinancialTransactions.Application\bin\Debug\net8.0\FinancialTransactions.Domain.pdb
+C:\Users\thabomat\source\repos\FinancialTransactionManagementSystem\FinancialTransactions.Application\obj\Debug\net8.0\Financia.5A82D643.Up2Date
+C:\Users\thabomat\source\repos\FinancialTransactionManagementSystem\FinancialTransactions.Application\obj\Debug\net8.0\FinancialTransactions.Application.dll
+C:\Users\thabomat\source\repos\FinancialTransactionManagementSystem\FinancialTransactions.Application\obj\Debug\net8.0\refint\FinancialTransactions.Application.dll
+C:\Users\thabomat\source\repos\FinancialTransactionManagementSystem\FinancialTransactions.Application\obj\Debug\net8.0\FinancialTransactions.Application.pdb
+C:\Users\thabomat\source\repos\FinancialTransactionManagementSystem\FinancialTransactions.Application\obj\Debug\net8.0\ref\FinancialTransactions.Application.dll

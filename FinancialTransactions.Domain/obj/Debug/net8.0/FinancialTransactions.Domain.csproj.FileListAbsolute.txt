@@ -1,0 +1,11 @@
+C:\Users\thabomat\source\repos\FinancialTransactionManagementSystem\FinancialTransactions.Domain\bin\Debug\net8.0\FinancialTransactions.Domain.deps.json
+C:\Users\thabomat\source\repos\FinancialTransactionManagementSystem\FinancialTransactions.Domain\bin\Debug\net8.0\FinancialTransactions.Domain.dll
+C:\Users\thabomat\source\repos\FinancialTransactionManagementSystem\FinancialTransactions.Domain\bin\Debug\net8.0\FinancialTransactions.Domain.pdb
+C:\Users\thabomat\source\repos\FinancialTransactionManagementSystem\FinancialTransactions.Domain\obj\Debug\net8.0\FinancialTransactions.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thabomat\source\repos\FinancialTransactionManagementSystem\FinancialTransactions.Domain\obj\Debug\net8.0\FinancialTransactions.Domain.AssemblyInfoInputs.cache
+C:\Users\thabomat\source\repos\FinancialTransactionManagementSystem\FinancialTransactions.Domain\obj\Debug\net8.0\FinancialTransactions.Domain.AssemblyInfo.cs
+C:\Users\thabomat\source\repos\FinancialTransactionManagementSystem\FinancialTransactions.Domain\obj\Debug\net8.0\FinancialTransactions.Domain.csproj.CoreCompileInputs.cache
+C:\Users\thabomat\source\repos\FinancialTransactionManagementSystem\FinancialTransactions.Domain\obj\Debug\net8.0\FinancialTransactions.Domain.dll
+C:\Users\thabomat\source\repos\FinancialTransactionManagementSystem\FinancialTransactions.Domain\obj\Debug\net8.0\refint\FinancialTransactions.Domain.dll
+C:\Users\thabomat\source\repos\FinancialTransactionManagementSystem\FinancialTransactions.Domain\obj\Debug\net8.0\FinancialTransactions.Domain.pdb
+C:\Users\thabomat\source\repos\FinancialTransactionManagementSystem\FinancialTransactions.Domain\obj\Debug\net8.0\ref\FinancialTransactions.Domain.dll
